@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://github.com/JoshLeckey/CV](https://github.com/JoshLeckey/CV)
 
-- ⚡ Fun fact **my pc is a certified cooker**
+- ⚡ Fun fact **My pc is a certified cooker**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
