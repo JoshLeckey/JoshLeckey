@@ -8,6 +8,6 @@
 <a href="https://www.linkedin.com/in/joshualeckey/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>  
-<a href="https://leckey.dev">
+<a href="https://leckey.dev"/>
   <img scr="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />
 </a>
