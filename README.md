@@ -9,13 +9,13 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/JoshLeckey](https://github.com/JoshLeckey)
 
-- 📝 I regularly write articles on [coming soon :)](coming soon :))
-
-- 💬 Ask me about **Lavavel,**
+- 💬 Ask me about **Lavavel, Game Development**
 
 - 📫 How to reach me **josh@leckey.dev**
 
 - 📄 Know about my experiences [https://github.com/JoshLeckey/CV](https://github.com/JoshLeckey/CV)
+
+- ⚡ Fun fact **My pc is a certified cooker**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
