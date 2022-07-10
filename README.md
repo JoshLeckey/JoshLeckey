@@ -1,4 +1,4 @@
-<h2> Hi Im Josh :)</h2>
+<h2> Hello im josh leckey</h2>
 <h6> Im a software engineer from Northern Ireland </h6>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshLeckey)](https://github.com/anuraghazra/github-readme-stats). 
